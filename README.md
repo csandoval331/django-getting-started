@@ -147,7 +147,7 @@ print(datetime.timedelta(days=1))
 - django protects agains csrf by using `{% csrf_token %}`, which gets added to the html form
 - the csrf_token will generate a new token each time a user logs in
 - [link](https://docs.djangoproject.com/en/5.2/ref/csrf/)
-```
+
 
 # How to setup django for production
 - [how to setup django with apache and mod_wsgi](https://docs.djangoproject.com/en/5.1/topics/install/#installing-official-release)
