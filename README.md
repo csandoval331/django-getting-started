@@ -174,8 +174,7 @@ print(datetime.timedelta(days=1))
     # lamda function
     sum = lambda x, y : x+y
     print(sum(2,3) ) ## will return 5
-    ```
-    ```python
+    
     # equivalent function
     function sum(x, y):
         return x + y
